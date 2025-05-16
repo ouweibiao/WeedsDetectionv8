@@ -1,0 +1,7 @@
+path: L:/PythonCode/PySideCode/YOLOv8v5Code/WeedsDetection/datasets/Weeds
+train: train/images/
+val: valid/images/
+test: test/images/
+nc: 1
+names:
+  0: weeds

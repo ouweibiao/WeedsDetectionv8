@@ -1,0 +1,1209 @@
+序号,画面标识,结果,位置,置信度
+0,Camera 0,杂草,"72,485,185,599",0.49
+1,Camera 0,杂草,"85,488,184,591",0.65
+2,Camera 0,杂草,"83,489,184,589",0.61
+3,Camera 0,杂草,"96,491,185,594",0.34
+4,Camera 0,杂草,"101,490,185,603",0.31
+5,Camera 0,杂草,"100,495,184,600",0.29
+6,Camera 0,杂草,"610,528,639,632",0.30
+7,Camera 0,杂草,"117,495,184,600",0.29
+8,Camera 0,杂草,"612,528,640,629",0.27
+9,Camera 0,杂草,"280,437,351,544",0.35
+10,Camera 0,杂草,"500,276,640,475",0.44
+11,Camera 0,杂草,"502,258,640,463",0.28
+12,Camera 0,杂草,"502,269,640,466",0.41
+13,Camera 0,杂草,"505,276,640,461",0.32
+14,Camera 0,杂草,"503,258,640,464",0.32
+15,Camera 0,杂草,"503,270,640,466",0.34
+16,Camera 0,杂草,"502,276,640,473",0.35
+17,Camera 0,杂草,"504,263,640,469",0.38
+18,Camera 0,杂草,"504,260,640,471",0.32
+19,Camera 0,杂草,"501,271,640,468",0.53
+20,Camera 0,杂草,"504,275,640,464",0.35
+21,Camera 0,杂草,"500,255,640,483",0.40
+22,Camera 0,杂草,"501,266,640,470",0.32
+23,Camera 0,杂草,"499,258,640,472",0.29
+24,Camera 0,杂草,"497,248,640,465",0.29
+25,Camera 0,杂草,"492,245,640,469",0.27
+26,Camera 0,杂草,"545,468,640,635",0.30
+27,Camera 0,杂草,"503,233,640,473",0.34
+28,Camera 0,杂草,"503,232,640,472",0.28
+29,Camera 0,杂草,"503,231,640,463",0.34
+30,Camera 0,杂草,"540,469,640,618",0.27
+31,Camera 0,杂草,"509,226,640,468",0.28
+32,Camera 0,杂草,"512,240,640,472",0.44
+33,Camera 0,杂草,"511,256,640,458",0.29
+34,Camera 0,杂草,"514,227,640,473",0.30
+35,Camera 0,杂草,"513,224,640,483",0.27
+36,Camera 0,杂草,"513,237,640,469",0.34
+37,Camera 0,杂草,"512,228,640,468",0.40
+38,Camera 0,杂草,"59,492,203,639",0.27
+39,Camera 0,杂草,"513,226,640,476",0.31
+40,Camera 0,杂草,"515,234,640,478",0.33
+41,Camera 0,杂草,"50,491,217,639",0.32
+42,Camera 0,杂草,"512,227,640,477",0.41
+43,Camera 0,杂草,"513,237,640,462",0.27
+44,Camera 0,杂草,"514,248,640,465",0.36
+45,Camera 0,杂草,"513,228,640,468",0.40
+46,Camera 0,杂草,"513,224,640,474",0.43
+47,Camera 0,杂草,"510,222,640,479",0.31
+48,Camera 0,杂草,"501,237,640,477",0.28
+49,Camera 0,杂草,"59,490,212,639",0.28
+50,Camera 0,杂草,"506,224,640,483",0.27
+51,Camera 0,杂草,"489,245,640,473",0.38
+52,Camera 0,杂草,"477,266,640,469",0.32
+53,Camera 0,杂草,"475,262,640,472",0.33
+54,Camera 0,杂草,"545,415,640,619",0.29
+55,Camera 0,杂草,"467,262,640,472",0.30
+56,Camera 0,杂草,"493,227,640,486",0.33
+57,Camera 0,杂草,"541,427,640,614",0.36
+58,Camera 0,杂草,"473,247,640,476",0.38
+59,Camera 0,杂草,"495,228,640,473",0.32
+60,Camera 0,杂草,"545,433,640,612",0.27
+61,Camera 0,杂草,"481,249,640,470",0.41
+62,Camera 0,杂草,"492,229,640,481",0.28
+63,Camera 0,杂草,"557,457,640,618",0.26
+64,Camera 0,杂草,"472,241,640,475",0.37
+65,Camera 0,杂草,"472,242,640,469",0.35
+66,Camera 0,杂草,"491,228,640,476",0.36
+67,Camera 0,杂草,"479,246,640,468",0.35
+68,Camera 0,杂草,"476,245,640,466",0.32
+69,Camera 0,杂草,"489,229,640,473",0.36
+70,Camera 0,杂草,"468,238,640,480",0.29
+71,Camera 0,杂草,"471,242,640,472",0.26
+72,Camera 0,杂草,"540,465,640,628",0.29
+73,Camera 0,杂草,"482,245,640,471",0.29
+74,Camera 0,杂草,"561,474,640,633",0.26
+75,Camera 0,杂草,"478,247,640,477",0.27
+76,Camera 0,杂草,"482,253,640,473",0.42
+77,Camera 0,杂草,"495,233,640,473",0.29
+78,Camera 0,杂草,"482,248,640,466",0.27
+79,Camera 0,杂草,"483,249,640,476",0.27
+80,Camera 0,杂草,"489,249,640,463",0.30
+81,Camera 0,杂草,"491,260,640,475",0.31
+82,Camera 0,杂草,"491,245,640,466",0.27
+83,Camera 0,杂草,"489,251,640,474",0.28
+84,Camera 0,杂草,"495,263,640,471",0.29
+85,Camera 0,杂草,"547,453,640,619",0.33
+86,Camera 0,杂草,"497,231,640,467",0.29
+87,Camera 0,杂草,"499,222,640,456",0.32
+88,Camera 0,杂草,"501,218,640,458",0.42
+89,Camera 0,杂草,"499,229,640,455",0.27
+90,Camera 0,杂草,"501,229,640,452",0.34
+91,Camera 0,杂草,"500,229,640,451",0.29
+92,Camera 0,杂草,"501,232,640,451",0.28
+93,Camera 0,杂草,"504,227,640,460",0.29
+94,Camera 0,杂草,"501,233,640,451",0.41
+95,Camera 0,杂草,"500,236,640,450",0.39
+96,Camera 0,杂草,"501,236,640,455",0.48
+97,Camera 0,杂草,"501,235,640,453",0.48
+98,Camera 0,杂草,"504,228,640,453",0.42
+99,Camera 0,杂草,"504,234,640,462",0.47
+100,Camera 0,杂草,"501,261,640,459",0.54
+101,Camera 0,杂草,"503,253,640,457",0.45
+102,Camera 0,杂草,"506,241,640,457",0.57
+103,Camera 0,杂草,"510,253,640,446",0.59
+104,Camera 0,杂草,"511,215,640,402",0.38
+105,Camera 0,杂草,"456,383,620,532",0.49
+106,Camera 0,杂草,"462,304,635,538",0.44
+107,Camera 0,杂草,"502,252,636,484",0.49
+108,Camera 0,杂草,"492,259,633,484",0.47
+109,Camera 0,杂草,"459,286,620,523",0.28
+110,Camera 0,杂草,"39,492,204,640",0.27
+111,Camera 0,杂草,"458,346,586,512",0.40
+112,Camera 0,杂草,"453,324,597,523",0.37
+113,Camera 0,杂草,"453,395,566,521",0.40
+114,Camera 0,杂草,"445,396,554,519",0.47
+115,Camera 0,杂草,"452,389,547,515",0.43
+116,Camera 0,杂草,"446,415,536,526",0.44
+117,Camera 0,杂草,"448,415,537,527",0.49
+118,Camera 0,杂草,"449,414,545,530",0.44
+119,Camera 0,杂草,"455,410,547,518",0.44
+120,Camera 0,杂草,"455,391,567,545",0.44
+121,Camera 0,杂草,"453,349,585,518",0.33
+122,Camera 0,杂草,"447,397,556,540",0.54
+123,Camera 0,杂草,"447,397,556,517",0.45
+124,Camera 0,杂草,"453,402,561,507",0.53
+125,Camera 0,杂草,"450,397,568,535",0.56
+126,Camera 0,杂草,"449,399,565,514",0.29
+127,Camera 0,杂草,"449,318,588,505",0.43
+128,Camera 0,杂草,"452,312,613,516",0.37
+129,Camera 0,杂草,"453,319,590,534",0.37
+130,Camera 0,杂草,"452,326,602,512",0.53
+131,Camera 0,杂草,"448,310,613,530",0.52
+132,Camera 0,杂草,"455,312,627,544",0.41
+133,Camera 0,杂草,"441,376,640,558",0.31
+134,Camera 0,杂草,"443,388,640,558",0.28
+135,Camera 0,杂草,"439,377,640,562",0.32
+136,Camera 0,杂草,"492,219,640,445",0.35
+137,Camera 0,杂草,"499,205,635,446",0.34
+138,Camera 0,杂草,"436,405,612,545",0.33
+139,Camera 0,杂草,"503,256,614,418",0.32
+140,Camera 0,杂草,"439,393,597,530",0.35
+141,Camera 0,杂草,"452,286,597,524",0.30
+142,Camera 0,杂草,"445,391,577,531",0.53
+143,Camera 0,杂草,"439,395,572,530",0.53
+144,Camera 0,杂草,"436,361,579,508",0.28
+145,Camera 0,杂草,"430,361,585,511",0.48
+146,Camera 0,杂草,"431,382,568,540",0.60
+147,Camera 0,杂草,"427,410,551,528",0.41
+148,Camera 0,杂草,"428,417,530,532",0.57
+149,Camera 0,杂草,"426,433,522,516",0.40
+150,Camera 0,杂草,"483,221,640,471",0.35
+151,Camera 0,杂草,"557,505,640,639",0.31
+152,Camera 0,杂草,"559,505,640,639",0.26
+153,Camera 0,杂草,"545,501,640,639",0.43
+154,Camera 0,杂草,"551,506,640,639",0.36
+155,Camera 0,杂草,"549,501,640,639",0.50
+156,Camera 0,杂草,"568,511,640,639",0.34
+157,Camera 0,杂草,"563,507,640,640",0.29
+158,Camera 0,杂草,"553,508,640,639",0.45
+159,Camera 0,杂草,"570,516,640,639",0.43
+160,Camera 0,杂草,"571,513,640,639",0.28
+161,Camera 0,杂草,"577,512,640,639",0.34
+162,Camera 0,杂草,"583,513,639,637",0.26
+163,Camera 0,杂草,"582,514,640,638",0.28
+164,Camera 0,杂草,"584,512,640,639",0.40
+165,Camera 0,杂草,"566,507,640,636",0.36
+166,Camera 0,杂草,"580,513,639,637",0.27
+167,Camera 0,杂草,"574,511,640,638",0.34
+168,Camera 0,杂草,"589,519,639,640",0.38
+169,Camera 0,杂草,"564,509,640,639",0.32
+170,Camera 0,杂草,"579,517,639,636",0.34
+171,Camera 0,杂草,"592,520,639,639",0.29
+172,Camera 0,杂草,"592,518,639,640",0.26
+173,Camera 0,杂草,"582,513,640,639",0.29
+174,Camera 0,杂草,"573,511,640,639",0.39
+175,Camera 0,杂草,"589,522,639,640",0.28
+176,Camera 0,杂草,"577,509,640,639",0.28
+177,Camera 0,杂草,"588,515,640,639",0.35
+178,Camera 0,杂草,"576,509,640,639",0.31
+179,Camera 0,杂草,"575,514,640,638",0.35
+180,Camera 0,杂草,"574,512,640,639",0.29
+181,Camera 0,杂草,"576,514,640,638",0.34
+182,Camera 0,杂草,"582,518,640,639",0.34
+183,Camera 0,杂草,"496,256,640,471",0.26
+184,Camera 0,杂草,"552,504,640,637",0.35
+185,Camera 0,杂草,"551,497,640,635",0.38
+186,Camera 0,杂草,"544,494,640,636",0.26
+187,Camera 0,杂草,"549,502,640,637",0.39
+188,Camera 0,杂草,"549,504,640,639",0.37
+189,Camera 0,杂草,"548,494,640,629",0.34
+190,Camera 0,杂草,"545,498,640,637",0.35
+191,Camera 0,杂草,"559,504,640,637",0.46
+192,Camera 0,杂草,"551,500,640,636",0.40
+193,Camera 0,杂草,"549,496,640,637",0.27
+194,Camera 0,杂草,"551,499,640,637",0.40
+195,Camera 0,杂草,"551,500,640,638",0.49
+196,Camera 0,杂草,"566,509,640,639",0.39
+197,Camera 0,杂草,"554,502,640,637",0.52
+198,Camera 0,杂草,"556,503,640,637",0.39
+199,Camera 0,杂草,"561,505,640,635",0.43
+200,Camera 0,杂草,"562,500,640,637",0.38
+201,Camera 0,杂草,"562,502,640,635",0.39
+202,Camera 0,杂草,"561,504,640,637",0.36
+203,Camera 0,杂草,"563,504,640,634",0.42
+204,Camera 0,杂草,"547,499,640,638",0.43
+205,Camera 0,杂草,"548,499,640,636",0.48
+206,Camera 0,杂草,"542,495,640,638",0.45
+207,Camera 0,杂草,"543,494,640,638",0.45
+208,Camera 0,杂草,"547,499,640,638",0.47
+209,Camera 0,杂草,"538,497,640,639",0.37
+210,Camera 0,杂草,"546,498,640,637",0.42
+211,Camera 0,杂草,"545,496,640,638",0.38
+212,Camera 0,杂草,"541,493,640,638",0.35
+213,Camera 0,杂草,"545,499,640,637",0.47
+214,Camera 0,杂草,"539,500,640,639",0.42
+215,Camera 0,杂草,"543,495,640,638",0.38
+216,Camera 0,杂草,"539,493,640,638",0.39
+217,Camera 0,杂草,"541,496,640,637",0.44
+218,Camera 0,杂草,"538,490,640,638",0.43
+219,Camera 0,杂草,"542,494,640,639",0.35
+220,Camera 0,杂草,"540,493,640,638",0.37
+221,Camera 0,杂草,"534,493,640,638",0.32
+222,Camera 0,杂草,"543,494,640,637",0.35
+223,Camera 0,杂草,"541,494,640,636",0.37
+224,Camera 0,杂草,"542,492,640,638",0.29
+225,Camera 0,杂草,"559,506,640,635",0.40
+226,Camera 0,杂草,"553,502,640,635",0.34
+227,Camera 0,杂草,"552,492,640,636",0.32
+228,Camera 0,杂草,"556,491,640,636",0.35
+229,Camera 0,杂草,"546,498,640,637",0.26
+230,Camera 0,杂草,"548,499,640,636",0.34
+231,Camera 0,杂草,"549,498,640,637",0.35
+232,Camera 0,杂草,"552,494,640,636",0.32
+233,Camera 0,杂草,"556,498,640,636",0.30
+234,Camera 0,杂草,"555,506,640,637",0.34
+235,Camera 0,杂草,"558,506,640,635",0.39
+236,Camera 0,杂草,"545,494,640,637",0.37
+237,Camera 0,杂草,"559,500,640,635",0.29
+238,Camera 0,杂草,"545,496,640,637",0.33
+239,Camera 0,杂草,"548,498,640,635",0.42
+240,Camera 0,杂草,"554,504,640,636",0.40
+241,Camera 0,杂草,"486,268,640,479",0.30
+242,Camera 0,杂草,"551,496,640,636",0.31
+243,Camera 0,杂草,"551,499,640,637",0.36
+244,Camera 0,杂草,"483,261,640,482",0.29
+245,Camera 0,杂草,"547,498,640,637",0.34
+246,Camera 0,杂草,"544,498,640,636",0.31
+247,Camera 0,杂草,"547,499,640,637",0.32
+248,Camera 0,杂草,"557,502,640,635",0.42
+249,Camera 0,杂草,"552,506,640,636",0.36
+250,Camera 0,杂草,"554,503,640,636",0.50
+251,Camera 0,杂草,"545,500,640,638",0.40
+252,Camera 0,杂草,"544,496,640,637",0.29
+253,Camera 0,杂草,"548,495,640,637",0.33
+254,Camera 0,杂草,"550,504,640,637",0.39
+255,Camera 0,杂草,"553,505,640,635",0.37
+256,Camera 0,杂草,"551,499,640,637",0.42
+257,Camera 0,杂草,"557,504,640,636",0.54
+258,Camera 0,杂草,"557,502,640,637",0.31
+259,Camera 0,杂草,"558,499,640,637",0.41
+260,Camera 0,杂草,"557,500,640,637",0.43
+261,Camera 0,杂草,"547,499,640,637",0.28
+262,Camera 0,杂草,"552,499,640,637",0.41
+263,Camera 0,杂草,"557,494,640,638",0.28
+264,Camera 0,杂草,"554,500,640,637",0.39
+265,Camera 0,杂草,"553,505,640,635",0.44
+266,Camera 0,杂草,"549,497,640,636",0.36
+267,Camera 0,杂草,"552,501,640,635",0.32
+268,Camera 0,杂草,"551,499,640,638",0.37
+269,Camera 0,杂草,"544,498,640,638",0.26
+270,Camera 0,杂草,"550,499,640,636",0.32
+271,Camera 0,杂草,"561,505,640,636",0.35
+272,Camera 0,杂草,"550,501,640,637",0.34
+273,Camera 0,杂草,"545,506,640,638",0.50
+274,Camera 0,杂草,"552,500,640,637",0.33
+275,Camera 0,杂草,"562,506,640,636",0.40
+276,Camera 0,杂草,"561,505,640,635",0.49
+277,Camera 0,杂草,"553,500,640,638",0.36
+278,Camera 0,杂草,"563,508,640,635",0.38
+279,Camera 0,杂草,"555,496,640,636",0.32
+280,Camera 0,杂草,"556,497,640,630",0.30
+281,Camera 0,杂草,"562,496,640,636",0.37
+282,Camera 0,杂草,"493,266,640,478",0.28
+283,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"0,206,68,348",0.76
+284,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"140,178,250,272",0.69
+285,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"368,230,475,334",0.69
+286,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"351,543,441,619",0.65
+287,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"242,164,349,313",0.62
+288,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"388,367,467,449",0.61
+289,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"430,87,554,197",0.57
+290,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"321,6,393,102",0.45
+291,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"271,391,349,500",0.42
+292,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"0,0,53,67",0.29
+293,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"228,319,313,401",0.26
+294,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"351,0,493,73",0.80
+295,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"567,345,640,457",0.76
+296,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"481,264,589,382",0.75
+297,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"0,256,61,351",0.67
+298,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"0,592,73,639",0.61
+299,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"322,252,389,347",0.50
+300,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"262,584,351,639",0.47
+301,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"174,39,232,131",0.38
+302,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"77,310,199,435",0.76
+303,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"184,527,275,623",0.73
+304,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"97,138,174,217",0.72
+305,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"301,257,454,405",0.68
+306,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"267,177,347,256",0.66
+307,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"506,312,609,479",0.57
+308,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"0,388,45,486",0.55
+309,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"544,213,637,278",0.53
+310,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"0,8,45,76",0.45
+311,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"49,542,139,629",0.77
+312,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"413,441,535,578",0.77
+313,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"297,582,396,639",0.65
+314,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"60,0,208,40",0.39
+315,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"479,111,568,221",0.75
+316,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"397,19,518,136",0.82
+317,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"383,406,490,556",0.79
+318,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"283,34,382,168",0.78
+319,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"434,165,530,290",0.75
+320,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"488,336,589,488",0.72
+321,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"521,593,600,639",0.50
+322,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"0,123,68,210",0.42
+323,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"184,610,309,639",0.27
+324,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"215,59,369,201",0.83
+325,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"318,518,436,640",0.78
+326,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"579,558,640,639",0.72
+327,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"215,564,326,639",0.69
+328,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"464,537,534,625",0.70
+329,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"88,487,189,601",0.67
+330,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"263,318,338,420",0.66
+331,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"443,156,515,242",0.62
+332,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"546,176,637,268",0.62
+333,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"0,558,32,639",0.61
+334,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"593,486,640,638",0.57
+335,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"323,0,376,79",0.44
+336,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"463,70,518,129",0.42
+337,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"0,574,70,639",0.72
+338,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"319,490,454,616",0.71
+339,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"384,0,468,47",0.63
+340,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"0,12,46,119",0.63
+341,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"35,212,104,308",0.61
+342,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"206,268,336,369",0.50
+343,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"294,224,413,334",0.74
+344,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"3,513,89,627",0.73
+345,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"415,580,499,639",0.69
+346,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"327,327,473,470",0.65
+347,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"99,65,213,172",0.63
+348,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"284,123,380,216",0.61
+349,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"461,258,522,331",0.60
+350,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"516,376,599,469",0.45
+351,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"343,46,396,106",0.39
+352,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"418,22,469,94",0.35
+353,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"402,99,518,226",0.77
+354,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"139,219,217,318",0.64
+355,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"395,414,457,473",0.44
+356,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"0,519,40,580",0.41
+357,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"463,87,584,216",0.75
+358,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"275,0,404,33",0.45
+359,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"413,36,536,213",0.79
+360,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"269,232,392,348",0.74
+361,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"210,118,301,229",0.73
+362,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"210,0,314,79",0.79
+363,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"549,534,638,626",0.79
+364,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"525,0,606,58",0.67
+365,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"123,610,259,639",0.36
+366,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"56,360,191,559",0.70
+367,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"0,0,44,88",0.69
+368,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"568,0,640,58",0.64
+369,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"247,0,337,70",0.51
+370,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"222,296,290,363",0.46
+371,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"597,514,639,613",0.37
+372,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"542,597,636,639",0.29
+373,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"282,434,373,538",0.77
+374,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"353,248,460,361",0.72
+375,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"497,5,595,124",0.62
+376,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"292,198,373,311",0.62
+377,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"0,525,29,610",0.37
+378,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"476,478,547,559",0.35
+379,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"563,381,640,525",0.80
+380,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"175,0,285,52",0.71
+381,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"0,121,88,260",0.68
+382,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"588,13,640,97",0.60
+383,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"155,0,268,108",0.77
+384,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"582,230,640,340",0.45
+385,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"25,174,93,233",0.40
+386,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"431,547,512,640",0.76
+387,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"81,454,180,535",0.67
+388,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"367,18,418,109",0.63
+389,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"198,30,257,95",0.62
+390,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"577,156,629,215",0.53
+391,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"577,10,640,98",0.39
+392,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"530,0,640,96",0.39
+393,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"321,564,441,639",0.38
+394,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"498,0,640,40",0.32
+395,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"545,492,590,550",0.26
+396,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"105,316,204,413",0.69
+397,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"102,23,186,127",0.68
+398,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"527,56,617,153",0.73
+399,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"200,68,276,148",0.69
+400,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"156,327,244,457",0.69
+401,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"384,331,517,490",0.84
+402,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"114,0,247,90",0.81
+403,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"222,248,331,377",0.74
+404,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"127,386,219,538",0.70
+405,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"93,557,201,639",0.77
+406,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"0,278,81,380",0.73
+407,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"424,84,517,177",0.72
+408,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"335,0,440,97",0.68
+409,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"307,358,390,433",0.65
+410,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"6,440,68,510",0.55
+411,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"1,534,69,610",0.46
+412,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"0,403,30,487",0.42
+413,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"323,0,454,42",0.34
+414,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"430,163,507,218",0.31
+415,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"433,381,571,514",0.77
+416,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"0,0,83,113",0.76
+417,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"344,306,464,442",0.72
+418,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"190,450,253,498",0.38
+419,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"515,274,639,451",0.84
+420,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"267,380,422,548",0.80
+421,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"0,448,80,590",0.73
+422,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"315,163,412,246",0.71
+423,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"348,41,435,149",0.65
+424,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"115,196,223,334",0.61
+425,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"310,0,425,29",0.45
+426,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"218,174,325,282",0.72
+427,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"531,23,594,129",0.60
+428,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"75,487,148,604",0.52
+429,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"0,283,75,350",0.35
+430,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"495,411,590,507",0.76
+431,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"399,313,455,354",0.38
+432,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"442,327,573,468",0.81
+433,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"563,131,640,220",0.74
+434,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"15,587,101,639",0.65
+435,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"116,504,231,595",0.49
+436,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"111,353,195,479",0.64
+437,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"445,96,566,258",0.75
+438,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"485,569,597,639",0.71
+439,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"348,203,446,309",0.69
+440,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"76,121,153,205",0.68
+441,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"261,0,357,87",0.65
+442,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"428,468,516,590",0.62
+443,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"236,282,302,345",0.60
+444,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"285,439,334,503",0.42
+445,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"387,434,502,536",0.63
+446,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"483,335,638,460",0.61
+447,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"248,57,339,202",0.79
+448,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"67,336,165,473",0.75
+449,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"242,421,374,552",0.82
+450,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"217,377,303,484",0.76
+451,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"8,514,97,618",0.75
+452,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"242,0,340,85",0.72
+453,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"222,436,274,507",0.43
+454,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"0,451,80,578",0.76
+455,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"449,174,557,303",0.75
+456,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"81,244,193,350",0.67
+457,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"176,416,220,494",0.50
+458,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"303,226,435,328",0.40
+459,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"254,588,353,639",0.39
+460,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"31,215,90,279",0.27
+461,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"358,481,442,584",0.78
+462,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"160,279,247,391",0.76
+463,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"4,328,199,494",0.72
+464,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"322,330,395,431",0.65
+465,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"154,0,239,50",0.59
+466,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"24,483,92,545",0.59
+467,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"335,13,417,88",0.55
+468,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"599,417,640,476",0.55
+469,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"367,541,461,639",0.79
+470,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"131,261,240,362",0.72
+471,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"295,435,484,630",0.61
+472,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"464,278,548,387",0.74
+473,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"584,295,640,376",0.37
+474,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"549,335,640,495",0.81
+475,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"454,0,562,117",0.76
+476,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"0,342,34,488",0.55
+477,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"297,546,406,639",0.73
+478,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"282,180,407,333",0.67
+479,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"208,309,282,390",0.61
+480,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"406,289,493,355",0.46
+481,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"73,533,138,621",0.43
+482,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"412,339,545,479",0.76
+483,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"581,242,640,343",0.72
+484,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"559,374,639,448",0.58
+485,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"222,0,345,61",0.55
+486,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"470,94,600,229",0.79
+487,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"464,403,548,507",0.72
+488,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"0,223,43,348",0.66
+489,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"301,517,430,639",0.82
+490,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"12,580,182,639",0.58
+491,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"593,577,640,640",0.56
+492,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"531,435,604,514",0.53
+493,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"0,440,40,542",0.51
+494,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"290,339,335,399",0.42
+495,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"363,71,421,190",0.37
+496,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"522,0,590,38",0.34
+497,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"102,142,175,220",0.65
+498,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"605,376,639,558",0.45
+499,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"0,394,66,551",0.70
+500,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"178,550,299,640",0.76
+501,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"0,567,84,639",0.74
+502,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"4,0,167,83",0.73
+503,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"512,446,622,587",0.72
+504,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"146,423,234,492",0.62
+505,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"343,596,449,639",0.55
+506,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"499,597,625,639",0.50
+507,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"482,0,551,57",0.43
+508,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"0,580,42,639",0.39
+509,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"64,76,145,151",0.33
+510,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"94,588,171,639",0.31
+511,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"289,0,432,26",0.29
+512,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"271,463,389,592",0.76
+513,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"356,118,452,236",0.56
+514,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"244,111,318,173",0.27
+515,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"501,0,620,70",0.75
+516,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"180,243,264,353",0.61
+517,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"333,0,451,42",0.48
+518,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"333,202,403,286",0.47
+519,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"61,0,157,53",0.38
+520,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"283,477,363,544",0.37
+521,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"97,580,194,639",0.28
+522,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"486,529,569,639",0.72
+523,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"376,466,473,583",0.70
+524,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"0,299,65,412",0.66
+525,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"354,393,434,475",0.57
+526,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"351,0,460,32",0.37
+527,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"251,55,352,183",0.77
+528,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"318,320,425,414",0.78
+529,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"123,82,244,177",0.76
+530,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"271,0,384,34",0.54
+531,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"159,598,274,639",0.52
+532,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"179,269,306,400",0.66
+533,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"500,2,610,135",0.55
+534,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"89,227,176,320",0.69
+535,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"80,320,152,379",0.39
+536,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"0,0,83,31",0.38
+537,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"263,118,336,201",0.49
+538,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"377,0,500,86",0.74
+539,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"103,508,198,622",0.76
+540,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"541,470,634,582",0.73
+541,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"237,280,353,421",0.83
+542,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"133,426,228,525",0.68
+543,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"319,91,380,188",0.32
+544,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"598,485,640,607",0.50
+545,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"0,481,50,621",0.75
+546,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"363,510,477,640",0.79
+547,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"336,87,421,164",0.69
+548,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"208,269,295,378",0.68
+549,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"422,129,526,221",0.73
+550,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"596,281,640,380",0.59
+551,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"571,456,640,514",0.26
+552,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"15,122,129,239",0.77
+553,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"320,12,415,143",0.74
+554,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"205,539,284,639",0.72
+555,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"0,287,43,389",0.63
+556,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"249,310,340,441",0.57
+557,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"433,177,499,240",0.73
+558,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"397,271,492,371",0.73
+559,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"494,116,613,210",0.70
+560,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"572,539,640,627",0.66
+561,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"239,573,348,639",0.65
+562,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"50,38,92,102",0.43
+563,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"382,545,442,616",0.37
+564,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"348,123,434,219",0.32
+565,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"127,397,198,461",0.26
+566,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"82,498,169,605",0.72
+567,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"411,51,488,172",0.68
+568,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"0,543,41,635",0.48
+569,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"480,360,559,466",0.73
+570,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"109,339,192,450",0.60
+571,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"567,583,640,639",0.59
+572,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"154,543,269,640",0.56
+573,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"191,357,275,479",0.47
+574,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"157,90,205,134",0.31
+575,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"15,408,77,472",0.63
+576,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"0,582,46,639",0.63
+577,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"417,118,476,172",0.39
+578,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"437,92,546,243",0.81
+579,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"10,29,57,92",0.49
+580,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"216,184,326,318",0.77
+581,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"420,30,509,121",0.57
+582,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"357,589,448,639",0.56
+583,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"360,11,416,79",0.43
+584,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"0,482,27,571",0.36
+585,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"392,383,442,449",0.36
+586,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"162,0,269,60",0.74
+587,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"180,66,292,181",0.73
+588,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"165,283,255,388",0.69
+589,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"575,0,640,53",0.67
+590,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"333,512,432,585",0.49
+591,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"410,502,492,589",0.72
+592,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"308,358,386,429",0.59
+593,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"0,0,44,61",0.38
+594,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"204,314,295,430",0.37
+595,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"178,478,253,551",0.29
+596,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"160,487,291,633",0.79
+597,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"343,439,454,601",0.71
+598,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"612,410,639,468",0.40
+599,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"22,467,114,600",0.79
+600,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"0,396,38,462",0.56
+601,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"124,267,231,385",0.76
+602,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"142,503,250,629",0.75
+603,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"534,549,640,639",0.82
+604,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"178,281,225,340",0.34
+605,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"0,564,34,639",0.44
+606,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"510,178,580,256",0.73
+607,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"240,328,306,378",0.33
+608,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"169,100,279,210",0.76
+609,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"319,291,389,382",0.66
+610,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"544,9,629,83",0.64
+611,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"50,27,119,114",0.58
+612,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"487,278,559,345",0.43
+613,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"322,382,383,454",0.34
+614,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"341,204,445,298",0.68
+615,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"0,111,49,205",0.63
+616,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"366,35,432,109",0.31
+617,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"419,274,522,379",0.75
+618,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"434,285,568,390",0.73
+619,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"533,62,609,162",0.69
+620,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"339,504,445,633",0.81
+621,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"194,434,270,535",0.74
+622,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"532,92,628,239",0.72
+623,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"392,262,486,375",0.71
+624,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"535,0,640,104",0.81
+625,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"570,451,634,517",0.59
+626,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"0,5,32,89",0.56
+627,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"507,284,543,328",0.42
+628,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"0,0,27,96",0.50
+629,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"112,10,171,77",0.53
+630,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"467,359,565,494",0.71
+631,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"581,327,640,407",0.50
+632,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"550,550,593,603",0.41
+633,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"43,0,182,29",0.26
+634,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"423,90,556,259",0.81
+635,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"356,100,421,168",0.67
+636,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"276,330,387,456",0.80
+637,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"17,566,84,639",0.60
+638,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"44,0,149,38",0.47
+639,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"575,159,628,218",0.27
+640,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"346,122,439,223",0.75
+641,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"355,444,448,529",0.69
+642,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"445,592,543,639",0.66
+643,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"401,526,473,610",0.43
+644,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"410,29,473,90",0.35
+645,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"341,542,433,630",0.76
+646,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"350,334,501,496",0.74
+647,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"589,179,640,300",0.68
+648,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"197,471,319,612",0.66
+649,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"391,144,480,221",0.49
+650,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"18,375,80,438",0.29
+651,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"540,422,630,506",0.72
+652,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"483,63,603,194",0.80
+653,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"411,378,532,489",0.67
+654,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"375,133,458,203",0.30
+655,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"173,330,276,424",0.70
+656,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"402,343,509,451",0.59
+657,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"304,288,416,419",0.56
+658,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"493,81,566,180",0.45
+659,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"349,547,439,618",0.45
+660,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"329,457,431,555",0.32
+661,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"574,309,638,383",0.31
+662,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"277,350,380,485",0.81
+663,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"24,95,139,196",0.79
+664,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"528,77,633,239",0.71
+665,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"36,243,153,313",0.70
+666,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"310,409,396,489",0.70
+667,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"489,470,580,579",0.61
+668,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"476,538,593,639",0.78
+669,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"0,530,65,636",0.70
+670,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"175,289,239,358",0.68
+671,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"355,566,476,639",0.67
+672,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"474,0,543,60",0.62
+673,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"36,596,110,639",0.32
+674,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"335,514,427,611",0.72
+675,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"170,453,291,551",0.53
+676,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"139,70,242,224",0.77
+677,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"305,184,418,305",0.76
+678,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"122,322,216,408",0.69
+679,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"581,473,640,578",0.66
+680,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"292,81,353,162",0.30
+681,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"503,50,615,183",0.81
+682,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"246,427,368,545",0.73
+683,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"439,574,543,639",0.65
+684,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"543,457,640,583",0.75
+685,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"4,0,88,73",0.74
+686,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"339,560,431,639",0.61
+687,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"456,0,538,58",0.37
+688,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"366,60,464,158",0.59
+689,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"526,286,639,399",0.73
+690,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"157,434,244,530",0.58
+691,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"1,253,100,381",0.55
+692,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"74,394,198,504",0.66
+693,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"50,98,134,230",0.73
+694,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"488,0,567,95",0.71
+695,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"345,121,404,182",0.42
+696,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"571,78,639,160",0.39
+697,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"189,339,315,490",0.78
+698,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"0,548,49,639",0.68
+699,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"465,133,561,256",0.46
+700,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"186,188,307,316",0.73
+701,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"245,488,342,609",0.60
+702,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"194,15,287,93",0.64
+703,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"494,304,612,419",0.78
+704,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"122,312,258,458",0.75
+705,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"483,128,624,248",0.63
+706,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"559,519,638,570",0.32
+707,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"401,125,499,245",0.68
+708,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"510,598,585,639",0.41
+709,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"0,235,36,375",0.46
+710,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"376,356,495,462",0.70
+711,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"78,344,180,460",0.72
+712,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"1,491,108,617",0.79
+713,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"527,559,622,639",0.76
+714,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"579,366,640,486",0.71
+715,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"450,309,536,429",0.70
+716,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"267,568,350,639",0.68
+717,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"537,101,621,205",0.67
+718,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"0,353,37,502",0.51
+719,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"80,305,181,414",0.37
+720,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"323,0,430,81",0.78
+721,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"161,481,257,568",0.72
+722,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"405,261,513,369",0.75
+723,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"29,66,125,216",0.71
+724,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"124,86,276,272",0.79
+725,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"361,345,495,479",0.75
+726,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"339,0,429,61",0.72
+727,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"98,206,208,288",0.63
+728,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"575,214,640,301",0.43
+729,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"494,537,615,639",0.72
+730,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"556,212,598,284",0.42
+731,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"428,0,552,47",0.39
+732,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"0,214,38,309",0.27
+733,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"496,86,585,208",0.72
+734,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"0,48,41,133",0.42
+735,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"451,102,582,247",0.78
+736,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"491,0,572,67",0.52
+737,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"203,147,335,279",0.77
+738,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"69,271,190,448",0.76
+739,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"147,187,237,277",0.67
+740,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"139,453,228,576",0.65
+741,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"30,374,129,478",0.62
+742,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"53,0,131,63",0.56
+743,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"6,518,145,639",0.72
+744,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"147,441,232,529",0.63
+745,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"589,280,640,375",0.54
+746,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"560,507,617,576",0.48
+747,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"127,211,279,342",0.75
+748,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"410,372,515,495",0.73
+749,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"189,431,274,525",0.68
+750,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"241,25,357,126",0.60
+751,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"198,386,250,451",0.39
+752,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"133,381,192,444",0.33
+753,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"77,426,189,580",0.69
+754,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"591,591,640,640",0.27
+755,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"0,341,75,448",0.71
+756,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"160,25,240,136",0.64
+757,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"545,364,640,517",0.61
+758,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"36,309,130,424",0.61
+759,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"370,330,468,435",0.60
+760,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"366,183,470,287",0.58
+761,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"238,261,315,355",0.33
+762,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"340,14,412,75",0.31
+763,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"0,375,70,494",0.71
+764,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"82,435,188,566",0.77
+765,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"382,160,498,281",0.73
+766,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"578,54,640,179",0.67
+767,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"569,605,638,639",0.38
+768,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"0,265,58,348",0.26
+769,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"152,382,235,504",0.67
+770,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"0,56,39,186",0.59
+771,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"583,0,640,47",0.45
+772,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"447,258,540,390",0.69
+773,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"460,1,537,67",0.35
+774,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"0,599,49,639",0.34
+775,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"321,371,404,437",0.29
+776,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"479,186,626,353",0.77
+777,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"6,367,114,509",0.76
+778,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"258,592,350,639",0.59
+779,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"370,57,453,138",0.30
+780,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"185,449,265,542",0.62
+781,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"494,594,576,639",0.45
+782,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"105,395,176,459",0.34
+783,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"82,436,189,584",0.74
+784,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"215,342,382,479",0.72
+785,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"117,24,179,92",0.29
+786,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"476,304,570,443",0.69
+787,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"238,200,330,328",0.68
+788,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"237,467,339,575",0.53
+789,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"467,196,527,290",0.41
+790,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"270,0,404,73",0.37
+791,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"442,446,510,507",0.31
+792,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"266,401,376,497",0.29
+793,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"0,365,71,489",0.75
+794,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"435,83,544,196",0.70
+795,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"155,412,298,573",0.68
+796,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"167,173,282,303",0.64
+797,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"523,132,597,245",0.48
+798,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"292,305,383,411",0.45
+799,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"350,449,420,530",0.38
+800,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"205,397,303,533",0.80
+801,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"431,460,570,588",0.75
+802,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"49,487,154,602",0.68
+803,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"532,421,639,544",0.81
+804,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"42,0,187,146",0.75
+805,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"359,575,466,639",0.60
+806,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"168,407,335,531",0.58
+807,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"305,0,419,131",0.78
+808,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"595,394,640,493",0.56
+809,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"553,210,602,273",0.41
+810,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"250,0,354,91",0.68
+811,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"388,93,484,204",0.66
+812,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"90,397,261,581",0.79
+813,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"395,67,477,172",0.65
+814,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"0,106,42,187",0.47
+815,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"40,512,208,639",0.80
+816,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"144,271,205,331",0.28
+817,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"247,456,314,538",0.71
+818,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"561,223,639,298",0.68
+819,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"318,529,404,637",0.65
+820,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"496,131,579,234",0.65
+821,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"3,0,102,71",0.63
+822,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"466,475,551,555",0.61
+823,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"187,542,252,631",0.61
+824,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"356,81,445,151",0.61
+825,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"263,120,326,193",0.32
+826,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"583,137,640,218",0.31
+827,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"593,0,640,44",0.28
+828,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"457,562,577,639",0.68
+829,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"162,235,266,370",0.61
+830,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"414,20,512,111",0.61
+831,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"482,270,542,357",0.54
+832,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"257,472,366,634",0.52
+833,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"604,342,639,447",0.45
+834,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"407,118,540,234",0.42
+835,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"0,118,35,259",0.35
+836,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"27,533,155,639",0.80
+837,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"0,340,52,447",0.77
+838,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"573,515,640,589",0.66
+839,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"467,18,595,132",0.62
+840,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"502,141,596,235",0.45
+841,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"392,479,497,623",0.43
+842,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"0,40,67,111",0.43
+843,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"189,506,264,578",0.40
+844,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"346,590,423,639",0.38
+845,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"608,348,640,476",0.32
+846,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"320,17,428,94",0.29
+847,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"396,339,538,500",0.79
+848,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"0,357,70,483",0.71
+849,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"21,180,141,299",0.64
+850,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"0,521,57,605",0.48
+851,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"151,145,237,236",0.45
+852,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"551,12,640,111",0.37
+853,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"492,261,639,407",0.81
+854,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"0,484,90,631",0.74
+855,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"300,568,426,639",0.68
+856,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"486,537,591,639",0.67
+857,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"505,453,639,597",0.57
+858,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"321,344,454,474",0.72
+859,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"458,324,563,455",0.72
+860,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"80,466,178,592",0.70
+861,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"347,0,478,87",0.69
+862,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"266,2,371,151",0.63
+863,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"310,192,418,328",0.53
+864,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"317,507,396,573",0.44
+865,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"0,582,76,639",0.42
+866,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"64,0,205,79",0.71
+867,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"270,345,395,457",0.71
+868,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"280,469,356,556",0.65
+869,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"592,445,640,540",0.63
+870,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"193,475,263,540",0.61
+871,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"190,563,362,639",0.57
+872,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"55,101,129,186",0.52
+873,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"353,155,413,217",0.48
+874,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"325,106,434,241",0.81
+875,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"56,309,164,442",0.76
+876,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"327,0,424,85",0.75
+877,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"188,242,271,341",0.64
+878,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"438,86,521,202",0.61
+879,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"54,113,126,197",0.48
+880,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"450,561,511,639",0.32
+881,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"13,0,161,28",0.31
+882,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"3,428,73,500",0.26
+883,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"519,49,618,171",0.67
+884,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"502,512,590,633",0.60
+885,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"313,316,392,399",0.58
+886,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"413,392,509,468",0.57
+887,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"336,53,402,138",0.46
+888,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"383,565,466,639",0.45
+889,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"480,559,614,639",0.76
+890,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"367,315,505,485",0.73
+891,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"277,518,379,630",0.70
+892,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"269,7,386,134",0.68
+893,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"144,52,226,150",0.45
+894,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"154,61,271,164",0.68
+895,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"451,271,536,379",0.66
+896,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"110,556,203,640",0.58
+897,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"527,114,603,191",0.57
+898,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"541,324,614,411",0.53
+899,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"352,494,433,591",0.51
+900,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"0,269,47,376",0.48
+901,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"459,563,564,639",0.37
+902,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"218,361,326,466",0.27
+903,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"504,305,620,413",0.78
+904,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"389,555,496,639",0.66
+905,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"304,0,397,64",0.57
+906,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"28,36,122,163",0.50
+907,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"84,369,169,456",0.48
+908,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"0,208,46,318",0.42
+909,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"147,603,265,639",0.38
+910,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"104,520,194,630",0.32
+911,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"291,0,501,68",0.31
+912,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"0,454,87,563",0.75
+913,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"339,517,464,638",0.73
+914,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"451,380,563,484",0.72
+915,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"281,373,413,514",0.70
+916,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"18,0,129,100",0.69
+917,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"0,351,44,468",0.49
+918,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"437,0,500,66",0.43
+919,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"583,418,639,478",0.34
+920,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"19,593,78,639",0.30
+921,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"293,5,421,144",0.74
+922,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"451,550,573,640",0.74
+923,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"187,426,316,557",0.72
+924,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"133,36,250,175",0.71
+925,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"360,368,466,487",0.64
+926,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"397,208,529,344",0.61
+927,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"475,450,599,553",0.58
+928,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"291,550,416,640",0.58
+929,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"0,92,52,211",0.57
+930,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"232,215,365,347",0.56
+931,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"594,263,640,407",0.51
+932,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"88,318,209,441",0.51
+933,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"521,0,639,109",0.49
+934,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"56,385,212,527",0.77
+935,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"357,559,476,639",0.77
+936,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"209,0,334,113",0.72
+937,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"0,54,44,214",0.59
+938,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"380,0,513,103",0.44
+939,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"435,336,538,455",0.59
+940,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"112,535,198,638",0.50
+941,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"338,533,436,605",0.47
+942,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"0,538,39,640",0.38
+943,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"174,307,291,439",0.76
+944,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"319,434,411,545",0.68
+945,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"96,117,173,200",0.54
+946,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"35,180,162,311",0.82
+947,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"303,110,413,228",0.74
+948,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"428,532,535,639",0.69
+949,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"74,0,163,67",0.67
+950,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"421,91,506,193",0.62
+951,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"341,0,499,85",0.75
+952,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"409,211,562,370",0.73
+953,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"34,278,186,416",0.72
+954,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"256,549,378,640",0.71
+955,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"0,376,47,528",0.55
+956,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"206,46,332,186",0.54
+957,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"408,374,510,483",0.49
+958,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"286,375,376,493",0.39
+959,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"437,52,550,193",0.77
+960,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"318,419,401,524",0.35
+961,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"572,465,640,544",0.28
+962,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"517,341,623,463",0.77
+963,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"231,260,335,368",0.74
+964,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"383,312,484,462",0.74
+965,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"298,186,374,269",0.65
+966,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"145,193,227,285",0.63
+967,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"63,166,116,230",0.45
+968,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"604,181,639,249",0.43
+969,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"31,505,159,640",0.42
+970,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"47,572,153,640",0.40
+971,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"456,601,569,639",0.39
+972,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"346,60,387,132",0.39
+973,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"240,456,318,547",0.38
+974,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"185,539,309,639",0.78
+975,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"0,32,60,203",0.64
+976,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"203,0,308,67",0.55
+977,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"236,205,330,298",0.50
+978,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"0,448,86,605",0.48
+979,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"86,247,172,342",0.43
+980,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"0,306,60,381",0.26
+981,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"464,367,592,542",0.78
+982,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"571,245,640,373",0.70
+983,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"550,96,639,211",0.64
+984,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"23,291,147,415",0.64
+985,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"379,329,488,434",0.63
+986,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"0,237,48,367",0.57
+987,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"400,56,464,124",0.50
+988,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"222,245,355,380",0.47
+989,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"509,338,614,445",0.42
+990,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"145,266,226,372",0.31
+991,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"262,130,438,270",0.68
+992,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"299,477,367,543",0.61
+993,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"314,21,406,85",0.45
+994,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"429,0,566,146",0.75
+995,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"149,37,280,172",0.66
+996,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"456,182,553,270",0.61
+997,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"0,1,52,63",0.43
+998,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"43,0,148,30",0.38
+999,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"190,4,325,158",0.77
+1000,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"546,167,640,298",0.74
+1001,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"501,308,622,427",0.74
+1002,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"343,0,422,63",0.57
+1003,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"28,511,202,632",0.46
+1004,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"0,483,74,575",0.44
+1005,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"151,179,254,310",0.75
+1006,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"212,307,351,440",0.69
+1007,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"137,595,254,639",0.39
+1008,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"128,536,232,639",0.77
+1009,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"309,516,404,611",0.66
+1010,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"0,339,37,467",0.57
+1011,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"303,0,404,90",0.71
+1012,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"93,538,188,633",0.71
+1013,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"296,88,400,172",0.67
+1014,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"63,464,137,537",0.38
+1015,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"202,296,307,419",0.67
+1016,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"324,89,442,198",0.47
+1017,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"547,432,640,519",0.46
+1018,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"0,367,73,532",0.71
+1019,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"260,518,409,626",0.61
+1020,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"511,579,593,639",0.58
+1021,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"149,250,316,432",0.46
+1022,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"406,0,516,24",0.28
+1023,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"229,393,346,495",0.74
+1024,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"534,533,630,617",0.73
+1025,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"450,271,531,356",0.68
+1026,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"302,148,374,228",0.62
+1027,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"415,201,485,266",0.57
+1028,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"0,38,111,196",0.80
+1029,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"387,332,466,421",0.58
+1030,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"210,343,387,526",0.74
+1031,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"20,263,121,375",0.73
+1032,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"97,39,223,174",0.72
+1033,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"117,433,208,541",0.52
+1034,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"563,390,640,554",0.75
+1035,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"35,223,133,350",0.70
+1036,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"164,372,266,494",0.69
+1037,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"128,240,261,364",0.68
+1038,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"578,0,640,78",0.67
+1039,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"94,481,194,568",0.61
+1040,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"36,32,125,119",0.58
+1041,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"430,325,546,427",0.56
+1042,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"441,130,546,245",0.51
+1043,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"197,491,277,570",0.51
+1044,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"95,0,203,47",0.45
+1045,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"535,122,611,229",0.35
+1046,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"575,23,640,122",0.63
+1047,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"62,0,145,111",0.48
+1048,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"142,9,229,99",0.47
+1049,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"479,382,564,465",0.46
+1050,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"60,25,155,143",0.74
+1051,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"167,460,255,590",0.68
+1052,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"441,583,551,639",0.62
+1053,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"0,11,39,137",0.57
+1054,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"446,141,542,270",0.76
+1055,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"571,191,640,284",0.72
+1056,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"293,470,392,594",0.71
+1057,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"0,235,54,350",0.70
+1058,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"448,338,516,403",0.69
+1059,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"17,59,97,161",0.67
+1060,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"534,515,630,595",0.64
+1061,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"119,211,185,284",0.59
+1062,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"391,532,474,636",0.30
+1063,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"378,70,487,190",0.73
+1064,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"586,125,640,248",0.71
+1065,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"475,373,592,481",0.74
+1066,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"0,1,144,157",0.69
+1067,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"0,123,75,238",0.64
+1068,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"479,81,574,151",0.52
+1069,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"123,182,190,256",0.51
+1070,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"452,210,544,292",0.49
+1071,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"265,0,387,29",0.32
+1072,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"379,81,502,171",0.58
+1073,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"552,355,615,411",0.53
+1074,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"261,594,389,639",0.52
+1075,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"371,579,453,639",0.44
+1076,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"505,31,631,204",0.74
+1077,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"144,86,246,211",0.73
+1078,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"273,242,385,346",0.61
+1079,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"189,288,282,388",0.55
+1080,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"110,429,188,508",0.50
+1081,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"166,0,245,69",0.29
+1082,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"226,44,343,164",0.73
+1083,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"415,8,545,173",0.71
+1084,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"264,333,335,417",0.69
+1085,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"523,265,628,387",0.67
+1086,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"55,70,143,175",0.67
+1087,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"566,84,640,179",0.63
+1088,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"433,187,543,318",0.62
+1089,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"181,427,305,571",0.55
+1090,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"34,528,100,610",0.39
+1091,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"466,180,619,337",0.78
+1092,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"118,131,242,273",0.69
+1093,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"0,504,84,581",0.44
+1094,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"175,431,281,560",0.32
+1095,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"446,386,536,529",0.68
+1096,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"465,75,588,195",0.66
+1097,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"438,0,560,71",0.65
+1098,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"593,457,640,552",0.64
+1099,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"300,156,389,278",0.62
+1100,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"262,302,319,386",0.39
+1101,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"399,387,516,549",0.74
+1102,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"513,336,608,481",0.73
+1103,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"561,214,640,283",0.62
+1104,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"364,276,470,399",0.59
+1105,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"0,461,39,552",0.55
+1106,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"49,461,149,541",0.68
+1107,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"424,437,536,554",0.67
+1108,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"286,349,375,469",0.65
+1109,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"400,118,469,214",0.62
+1110,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"136,135,241,231",0.60
+1111,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"19,144,91,218",0.58
+1112,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"75,347,182,451",0.58
+1113,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"367,351,456,445",0.57
+1114,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"545,135,615,201",0.53
+1115,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"324,0,420,53",0.52
+1116,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"438,273,523,371",0.51
+1117,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"608,511,639,580",0.29
+1118,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"527,355,638,528",0.80
+1119,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"253,0,365,72",0.73
+1120,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"201,207,289,278",0.65
+1121,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"49,507,112,601",0.48
+1122,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"516,545,640,639",0.79
+1123,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"516,11,638,155",0.75
+1124,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"405,279,534,432",0.72
+1125,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"238,307,357,443",0.72
+1126,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"0,274,49,376",0.65
+1127,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"0,15,41,144",0.62
+1128,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"170,145,266,261",0.44
+1129,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"542,356,625,446",0.42
+1130,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"491,117,603,243",0.72
+1131,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"315,446,409,552",0.71
+1132,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"201,585,335,639",0.64
+1133,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"491,575,599,639",0.56
+1134,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"0,332,30,466",0.44
+1135,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"0,471,31,583",0.30
+1136,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"7,472,142,626",0.72
+1137,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"220,88,346,259",0.66
+1138,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"69,216,133,299",0.59
+1139,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"160,533,229,597",0.56
+1140,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"560,525,626,634",0.51
+1141,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"384,349,500,445",0.44
+1142,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"226,496,355,639",0.76
+1143,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"462,331,560,428",0.70
+1144,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"503,98,613,225",0.67
+1145,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"2,256,164,454",0.57
+1146,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"92,185,200,288",0.55
+1147,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"445,495,522,587",0.48
+1148,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"189,456,260,523",0.42
+1149,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"525,0,630,53",0.42
+1150,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"58,474,168,584",0.73
+1151,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"352,133,439,233",0.70
+1152,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"218,347,345,466",0.70
+1153,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"93,47,204,129",0.64
+1154,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"589,431,640,503",0.50
+1155,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"85,376,227,533",0.76
+1156,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"244,55,362,168",0.72
+1157,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"361,298,432,383",0.57
+1158,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"28,506,142,635",0.73
+1159,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"515,55,618,224",0.76
+1160,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"378,319,498,433",0.75
+1161,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"557,293,640,447",0.74
+1162,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"248,0,381,123",0.72
+1163,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"27,482,143,610",0.68
+1164,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"70,133,191,235",0.68
+1165,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"322,107,438,212",0.67
+1166,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"203,324,280,408",0.62
+1167,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"487,541,564,615",0.56
+1168,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"372,547,453,606",0.43
+1169,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"0,79,50,157",0.30
+1170,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"156,205,245,317",0.26
+1171,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"539,276,639,425",0.78
+1172,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"90,36,226,168",0.77
+1173,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"400,279,514,422",0.76
+1174,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"285,219,404,310",0.65
+1175,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"47,552,102,613",0.38
+1176,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"257,437,305,494",0.34
+1177,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"502,20,628,143",0.70
+1178,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"573,339,640,526",0.70
+1179,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"446,100,545,178",0.45
+1180,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"495,472,605,598",0.73
+1181,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"219,527,359,639",0.73
+1182,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"0,361,41,515",0.56
+1183,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"495,125,577,228",0.55
+1184,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"496,0,638,41",0.54
+1185,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"156,324,282,465",0.80
+1186,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"6,554,117,639",0.79
+1187,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"499,217,597,317",0.68
+1188,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"522,384,613,457",0.60
+1189,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"429,571,572,639",0.69
+1190,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"296,242,413,340",0.62
+1191,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"394,139,476,225",0.36
+1192,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"57,51,167,196",0.80
+1193,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"444,144,577,282",0.70
+1194,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"299,0,398,56",0.46
+1195,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"432,51,531,162",0.30
+1196,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"67,0,176,65",0.74
+1197,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"272,425,399,585",0.70
+1198,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"342,0,415,65",0.54
+1199,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"298,310,393,406",0.52
+1200,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"166,202,225,287",0.43
+1201,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"383,594,531,639",0.41
+1202,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"460,56,528,136",0.38
+1203,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"248,199,395,379",0.67
+1204,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"483,286,552,360",0.62
+1205,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"387,107,462,184",0.59
+1206,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"133,549,234,638",0.59
+1207,/home/Sakura/Documents/毕业设计/WeedsDetectionv8/datasets/Weeds/test/images,杂草,"576,590,640,639",0.35
